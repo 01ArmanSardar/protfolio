@@ -1,0 +1,146 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body {
+    background-color: antiquewhite;
+    height: 0px;
+    padding: 0px;
+}
+
+.navbar-container {
+    background-color: #27074C;
+    display: flex;
+    padding: 0px;
+    margin:0px;
+    justify-content: space-around;
+    
+    width: 100%;
+}
+
+.menu-bar {
+    color: aliceblue;
+    display: flex;
+    list-style: none;
+    gap: 20px;
+    margin: 15px;
+}
+
+.CONTACT {
+
+    color: azure;
+    background-color: #27074C;
+    margin: 15PX;
+}
+
+.logo-resize {
+    margin-top: 11px;
+    width: 40px;
+
+}
+.banner-container{
+    background-color: #27074C;
+    display: flex;
+    justify-content: space-around;
+    
+}
+.myimage{
+    width:300px;
+}
+.banner-left{
+    width: 50%;
+margin: 70px;
+}
+.banner-right{
+    width: 50%;
+    margin: 50px;
+    padding: 50px;
+}
+.frame-img{
+    width: 300px;
+}
+.bannner-h1{
+    text-align: center;
+    width: 70%;
+    color:white;
+    font-style: normal;
+    margin-left: -20px;
+}
+.banner-p{
+    margin-left: -35px;
+    width: 70%;
+    text-align: center;
+    color:cornsilk;
+}
+.about-button{
+    background-color:#EF6D58;
+}
+.bnr-p{
+    color: #D36056;
+    margin-left: -9px;
+}
+.ourexpertise{ 
+    color:dimgray;
+    margin-top: 40px;
+    text-align: center;
+    font-weight: bold;
+}
+.skill-iamge{
+   margin: 30px; 
+}
+.description{
+    background-color: #27074C;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    gap: 420px;
+    
+}
+.laptop-image{
+    width: 150px;
+    margin: 30px;
+    width: 40px;
+}
+.expre-Clnt-Prjct{
+    margin-top: 200px;
+    width: 50%;
+    text-align: center;
+}
+.dspnum{
+    color: aliceblue;
+    font-size: 30px;
+    font-weight: bold;
+    font-style: normal;
+}
+.dsp2{
+    color: aliceblue;
+    margin-left:90px;
+}
+.dsp3{
+    color: aliceblue; 
+}
+.dsp4{
+    color: aliceblue; 
+    margin-left:76px;
+}
+.protfolio{
+    text-align: center;
+    font-size: 10px;
+    margin-top: 30px;
+}
+.latestWork{
+    margin-top: 25px;
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+}
+.LATESTwORK1{
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-around;
+}
+.LATESTWORK2{
+    margin-top: 25px;
+    display: flex;
+    justify-content: space-around;
+}
